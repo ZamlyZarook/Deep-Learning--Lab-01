@@ -1,2 +1,3 @@
 # Deep-Learning--Lab-01
-This is a First Lab Assignment of Deep Learning Module
+#### Zamly M.Z.M IT21091698
+This is the First Lab Assignment of the Deep Learning Module
